@@ -4,15 +4,11 @@ A bot for streaming in Telegram live streams.
 
 ## Get Started
 
-### Use a Cloud Platform
-
-[![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/callsmusic/trtmp)
-
 ### Manually
 
 #### Prerequisites
 
-- [youtube-dl](http://ytdl-org.github.io/youtube-dl/)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
 #### Install
 
