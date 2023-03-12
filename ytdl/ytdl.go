@@ -32,7 +32,7 @@ func getArgs(input string) []string {
 func Download(input string) (*Video, error) {
 	video := &Video{}
 	var result interface{}
-	output, err := exec.Command("youtube-dl", getArgs(input)...).Output()
+	output, err := exec.Command("yt-dlp", getArgs(input)...).Output()
 	if err != nil {
 		return video, err
 	}
