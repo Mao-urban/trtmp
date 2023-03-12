@@ -9,6 +9,7 @@ A bot for streaming in Telegram live streams.
 #### Prerequisites
 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+- [FFmpeg](https://ffmpeg.org)
 
 #### Install
 
